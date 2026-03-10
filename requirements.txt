@@ -1,0 +1,7 @@
+torch==2.5.1
+numpy==2.0.2
+torchvision==0.20.1
+tqdm==4.67.1
+tensorflow==2.20.0
+pillow==11.3.0
+panda==2.3.3
